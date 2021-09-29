@@ -6,22 +6,22 @@
     <description>Recent content in Categories on Saiko no Chimu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 20:29:00 +0200</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Téléfilms</title>
+      <link>https://saiko-no-chimu.fr/categories/telefilms/</link>
+      <pubDate>Tue, 28 Sep 2021 20:29:00 +0200</pubDate>
+      
+      <guid>https://saiko-no-chimu.fr/categories/telefilms/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Séries</title>
       <link>https://saiko-no-chimu.fr/categories/series/</link>
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/series/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Téléfilms</title>
-      <link>https://saiko-no-chimu.fr/categories/telefilms/</link>
-      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://saiko-no-chimu.fr/categories/telefilms/</guid>
       <description></description>
     </item>
     
