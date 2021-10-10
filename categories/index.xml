@@ -13,8 +13,8 @@
       <pubDate>Wed, 29 Sep 2021 20:20:00 +0200</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/telefilms/</guid>
-      <description></description>
-    </item>
+      <description></description>	  
+	  </item>
     
     <item>
       <title>Séries</title>
@@ -22,8 +22,8 @@
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/series/</guid>
-      <description></description>
-    </item>
+      <description></description>	  
+	  </item>
     
     <item>
       <title>OAV</title>
@@ -31,8 +31,8 @@
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/oav/</guid>
-      <description></description>
-    </item>
+      <description></description>	  
+	  </item>
     
     <item>
       <title>Films</title>
@@ -40,8 +40,8 @@
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/films/</guid>
-      <description></description>
-    </item>
+      <description></description>	  
+	  </item>
     
   </channel>
 </rss>

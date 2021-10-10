@@ -23,6 +23,10 @@ padding:0;
 width:65%;
 height: auto;
 } */
+#partenaires a {
+	width: 33%;
+	display:inline-block;
+}
 #partenaires img {
 	filter: sepia(100%) hue-rotate(180deg) contrast(200%);
 	width: 100%;
@@ -31,9 +35,6 @@ height: auto;
 }
 #partenaires img:hover {
 	filter: none;
-}
-#partenaires td {
-	padding:0;
 }
 /*Afficher les bannières en gris*/
 /* .onethirdpic,.twothirdspic {
