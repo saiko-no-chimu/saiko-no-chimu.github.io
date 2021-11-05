@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on Saiko no Chimu</title>
+    <title>Categories sur Saiko no Chimu</title>
     <link>https://saiko-no-chimu.fr/categories/</link>
-    <description>Recent content in Categories on Saiko no Chimu</description>
+    <description>Contenu récent dans Categories sur Saiko no Chimu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 31 Oct 2021 22:50:00 +0200</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <pubDate>Sun, 31 Oct 2021 22:50:00 +0200</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/telefilms/</guid>
-      <description></description>	  
-	  </item>
+      <description></description></item>
     
     <item>
       <title>Séries</title>
@@ -22,8 +21,7 @@
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/series/</guid>
-      <description></description>	  
-	  </item>
+      <description></description></item>
     
     <item>
       <title>OAV</title>
@@ -31,8 +29,7 @@
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/oav/</guid>
-      <description></description>	  
-	  </item>
+      <description></description></item>
     
     <item>
       <title>Films</title>
@@ -40,8 +37,7 @@
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/films/</guid>
-      <description></description>	  
-	  </item>
+      <description></description></item>
     
   </channel>
 </rss>

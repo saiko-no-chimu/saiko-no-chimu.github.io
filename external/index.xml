@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Externals on Saiko no Chimu</title>
+    <title>Externals sur Saiko no Chimu</title>
     <link>https://saiko-no-chimu.fr/external/</link>
-    <description>Recent content in Externals on Saiko no Chimu</description>
+    <description>Contenu récent dans Externals sur Saiko no Chimu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language><atom:link href="https://saiko-no-chimu.fr/external/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,8 +13,7 @@
       
       <guid>https://saiko-no-chimu.fr/external/ddl/</guid>
       <description>https://ddl.nobluesub.com/saiko-no-chimu-fansub.html
- </description>	  
-	  </item>
+ </description></item>
     
   </channel>
 </rss>
