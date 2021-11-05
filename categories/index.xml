@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories sur Saiko no Chimu</title>
     <link>https://saiko-no-chimu.fr/categories/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://saiko-no-chimu.fr/categories/telefilms/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -24,7 +24,7 @@
       
       <guid>https://saiko-no-chimu.fr/categories/series/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -34,7 +34,7 @@
       
       <guid>https://saiko-no-chimu.fr/categories/oav/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -44,7 +44,7 @@
       
       <guid>https://saiko-no-chimu.fr/categories/films/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
   </channel>

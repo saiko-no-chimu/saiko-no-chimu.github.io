@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TV-Rip sur Saiko no Chimu</title>
     <link>https://saiko-no-chimu.fr/tags/tv-rip/</link>
@@ -19,12 +19,12 @@ Et voilà, nous sommes enfin venu à bout de ce TV-Spécial, ce fût laborieux m
 Vous l&amp;rsquo;attendez tous et le voici :
 Staff :
  Trad : Babaloompo, Jigen Daisuke, Holy Check : Jigen Daisuke Q-Check : Jigen Daisuke, Babaloompo Edit : Babaloompo Time : Magic Encodage : Magic Upload : Magic  v2 en BD 720p et 1080p ICI</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/Lupin_III/lupin-III-2011.png" alt="Lupin III TV-Spécial 22 Chi no kokuin - Eien no Mermaid VOSTFR" />]]>Salut à tous !!
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/Lupin_III/lupin-III-2011.png" alt="Lupin III TV-Spécial 22 Chi no kokuin - Eien no Mermaid VOSTFR" />]]>Salut à tous !!
 Le voici, le seul, le vrai, l&amp;rsquo;unique Lupin III TV-Spécial n°22 Le sceau de sang - Une sirène éternelle
 Et voilà, nous sommes enfin venu à bout de ce TV-Spécial, ce fût laborieux mais nous l&amp;rsquo;avons fait !!
 Vous l&amp;rsquo;attendez tous et le voici :
 Staff :
- Trad : Babaloompo, Jigen Daisuke, Holy Check : Jigen Daisuke Q-Check : Jigen Daisuke, Babaloompo Edit : Babaloompo Time : Magic Encodage : Magic Upload : Magic  v2 en BD 720p et 1080p ICI</content>
+ Trad : Babaloompo, Jigen Daisuke, Holy Check : Jigen Daisuke Q-Check : Jigen Daisuke, Babaloompo Edit : Babaloompo Time : Magic Encodage : Magic Upload : Magic  v2 en BD 720p et 1080p ICI</content:encoded>
       </item>
     
   </channel>

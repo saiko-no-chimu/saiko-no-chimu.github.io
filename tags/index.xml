@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags sur Saiko no Chimu</title>
     <link>https://saiko-no-chimu.fr/tags/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://saiko-no-chimu.fr/tags/1080p/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -24,7 +24,7 @@
       
       <guid>https://saiko-no-chimu.fr/tags/bd-rip/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -34,7 +34,7 @@
       
       <guid>https://saiko-no-chimu.fr/tags/vostfr/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -44,7 +44,7 @@
       
       <guid>https://saiko-no-chimu.fr/tags/480p/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -54,7 +54,7 @@
       
       <guid>https://saiko-no-chimu.fr/tags/dvd-rip/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -64,7 +64,7 @@
       
       <guid>https://saiko-no-chimu.fr/tags/web-rip/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -74,7 +74,7 @@
       
       <guid>https://saiko-no-chimu.fr/tags/720p/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
     <item>
@@ -84,7 +84,7 @@
       
       <guid>https://saiko-no-chimu.fr/tags/tv-rip/</guid>
       <description></description>
-      <content></content>
+      <content:encoded></content:encoded>
       </item>
     
   </channel>

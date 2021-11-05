@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Films sur Saiko no Chimu</title>
     <link>https://saiko-no-chimu.fr/categories/films/</link>
@@ -17,10 +17,10 @@
 Claire, la fille au corps de verre, diffusé au cinéma en 1980, est une version étendue du début de l&amp;rsquo;épisode 3, la rencontre entre Tetsurô et Claire&amp;hellip; la fille au corps de verre.
 Il devrait y avoir d&amp;rsquo;autres sorties demain, sinon ce sera dans le courant de la semaine.
 À bientôt et bonne année si on ne se revoit pas avant demain soir 🙂</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/Galaxy-Express-999.jpg" alt="Galaxy Express 999 - Claire, la fille au corps de verre (1980) VOSTFR" />]]>Les sorties de Noël continuent avec un petit film de 15 minutes de Galaxy Express 999.
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/Galaxy-Express-999.jpg" alt="Galaxy Express 999 - Claire, la fille au corps de verre (1980) VOSTFR" />]]>Les sorties de Noël continuent avec un petit film de 15 minutes de Galaxy Express 999.
 Claire, la fille au corps de verre, diffusé au cinéma en 1980, est une version étendue du début de l&amp;rsquo;épisode 3, la rencontre entre Tetsurô et Claire&amp;hellip; la fille au corps de verre.
 Il devrait y avoir d&amp;rsquo;autres sorties demain, sinon ce sera dans le courant de la semaine.
-À bientôt et bonne année si on ne se revoit pas avant demain soir 🙂</content>
+À bientôt et bonne année si on ne se revoit pas avant demain soir 🙂</content:encoded>
       </item>
     
     <item>
@@ -32,9 +32,9 @@ Il devrait y avoir d&amp;rsquo;autres sorties demain, sinon ce sera dans le cour
       <description>Bonjour, voici notre première sortie qui ne soit pas un animé !
 Et rien de tel qu&amp;rsquo;un film live de Lupin III pour inaugurer ça !
 Ce film est réalisé par Ryuhei Kitamura, un réalisateur ayant une filmographie plutôt sympa et de l&amp;rsquo;expérience dans les films de sabre (voir l&amp;rsquo;excellent traitement de Goemon dans son film). Lupin III est joué par Shun Oguri, véritable star au Japon qui a, entre autre, joué le rôle principal dans les films Crows Zero de Takeshi Miike, joué Shinichi Kudo dans les films live de Détective Conan ou encore prêté sa voix au Capitaine Harlock dans le film de 2013.</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/Lupin_III/lupin-III-2014.jpg" alt="Lupin III: The Movie (2014) VOSTFR" />]]>Bonjour, voici notre première sortie qui ne soit pas un animé !
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/Lupin_III/lupin-III-2014.jpg" alt="Lupin III: The Movie (2014) VOSTFR" />]]>Bonjour, voici notre première sortie qui ne soit pas un animé !
 Et rien de tel qu&amp;rsquo;un film live de Lupin III pour inaugurer ça !
-Ce film est réalisé par Ryuhei Kitamura, un réalisateur ayant une filmographie plutôt sympa et de l&amp;rsquo;expérience dans les films de sabre (voir l&amp;rsquo;excellent traitement de Goemon dans son film). Lupin III est joué par Shun Oguri, véritable star au Japon qui a, entre autre, joué le rôle principal dans les films Crows Zero de Takeshi Miike, joué Shinichi Kudo dans les films live de Détective Conan ou encore prêté sa voix au Capitaine Harlock dans le film de 2013.</content>
+Ce film est réalisé par Ryuhei Kitamura, un réalisateur ayant une filmographie plutôt sympa et de l&amp;rsquo;expérience dans les films de sabre (voir l&amp;rsquo;excellent traitement de Goemon dans son film). Lupin III est joué par Shun Oguri, véritable star au Japon qui a, entre autre, joué le rôle principal dans les films Crows Zero de Takeshi Miike, joué Shinichi Kudo dans les films live de Détective Conan ou encore prêté sa voix au Capitaine Harlock dans le film de 2013.</content:encoded>
       </item>
     
     <item>
@@ -47,10 +47,10 @@ Ce film est réalisé par Ryuhei Kitamura, un réalisateur ayant une filmographi
 Voici une nouvelle sortie après 4 mois d&amp;rsquo;absence, Lupin III vs Détective Conan le Film !
 Pourquoi autant de temps ? Simplement car ma carte mère est HS et j&amp;rsquo;ai mis du temps à récupérer un ordi mais les projets ne se sont pas arrêté pour autant et les sorties vont pouvoir s&amp;rsquo;enchaîner à partir de maintenant. À commencer par celle de ce soir;
 Cette sortie est un peu particulière car il s&amp;rsquo;agit de notre premier projet 100% traduit depuis le japonais !</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/Lupin_III/lupin-vs-conan.jpg" alt="Lupin III vs Détective Conan : Le Film (2013) VOSTFR" />]]>Bonjour à tous !
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/Lupin_III/lupin-vs-conan.jpg" alt="Lupin III vs Détective Conan : Le Film (2013) VOSTFR" />]]>Bonjour à tous !
 Voici une nouvelle sortie après 4 mois d&amp;rsquo;absence, Lupin III vs Détective Conan le Film !
 Pourquoi autant de temps ? Simplement car ma carte mère est HS et j&amp;rsquo;ai mis du temps à récupérer un ordi mais les projets ne se sont pas arrêté pour autant et les sorties vont pouvoir s&amp;rsquo;enchaîner à partir de maintenant. À commencer par celle de ce soir;
-Cette sortie est un peu particulière car il s&amp;rsquo;agit de notre premier projet 100% traduit depuis le japonais !</content>
+Cette sortie est un peu particulière car il s&amp;rsquo;agit de notre premier projet 100% traduit depuis le japonais !</content:encoded>
       </item>
     
   </channel>

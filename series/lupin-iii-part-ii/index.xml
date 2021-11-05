@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lupin III Part II sur Saiko no Chimu</title>
     <link>https://saiko-no-chimu.fr/series/lupin-iii-part-ii/</link>
@@ -17,10 +17,10 @@
 Un projet qui nous tenait à cœur depuis nos débuts.
 Je tiens à remercier toutes les personnes ayant participé à ce long projet : Baltique, Alexiel_Ange_Déchu et, bien sûr, Jmister !
 Le bilan de cette série est vraiment positif, il y a eu des épisodes moins bons que d&amp;rsquo;autres mais globalement c&amp;rsquo;était très bien !</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 146 à 155 VOSTFR" />]]>Voilà, c&amp;rsquo;est fini. Nous avons fait les 103 épisodes inédits de Lupin III saison 2.
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 146 à 155 VOSTFR" />]]>Voilà, c&amp;rsquo;est fini. Nous avons fait les 103 épisodes inédits de Lupin III saison 2.
 Un projet qui nous tenait à cœur depuis nos débuts.
 Je tiens à remercier toutes les personnes ayant participé à ce long projet : Baltique, Alexiel_Ange_Déchu et, bien sûr, Jmister !
-Le bilan de cette série est vraiment positif, il y a eu des épisodes moins bons que d&amp;rsquo;autres mais globalement c&amp;rsquo;était très bien !</content>
+Le bilan de cette série est vraiment positif, il y a eu des épisodes moins bons que d&amp;rsquo;autres mais globalement c&amp;rsquo;était très bien !</content:encoded>
       </item>
     
     <item>
@@ -34,11 +34,11 @@ Un pack que j&amp;rsquo;ai préféré aux précédents que j&amp;rsquo;avais tro
 On ressent dans plusieurs de ces épisodes une inspiration venant de Hayao Miyazaki, réalisateur du film n° 2 et surtout du magnifique épisode 145 qui clôture ce pack.
 À bientôt pour la suite et fin de ce grand projet !
 Toujours en co-production avec Jmister : http://jmister-fansub.</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 136 à 145 VOSTFR" />]]>Nous y sommes ! l&amp;rsquo;avant-dernier pack d&amp;rsquo;épisodes de Lupin III saison 2 !
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 136 à 145 VOSTFR" />]]>Nous y sommes ! l&amp;rsquo;avant-dernier pack d&amp;rsquo;épisodes de Lupin III saison 2 !
 Un pack que j&amp;rsquo;ai préféré aux précédents que j&amp;rsquo;avais trouvé plutôt inégaux.
 On ressent dans plusieurs de ces épisodes une inspiration venant de Hayao Miyazaki, réalisateur du film n° 2 et surtout du magnifique épisode 145 qui clôture ce pack.
 À bientôt pour la suite et fin de ce grand projet !
-Toujours en co-production avec Jmister : http://jmister-fansub.</content>
+Toujours en co-production avec Jmister : http://jmister-fansub.</content:encoded>
       </item>
     
     <item>
@@ -51,10 +51,10 @@ Toujours en co-production avec Jmister : http://jmister-fansub.</content>
 On commence à voir le bout de ce projet, nous sommes à 83 épisodes sur 103 !
 J&amp;rsquo;ai trouvé ces épisodes globalement meilleurs que ceux du précédent pack, vous nous direz ce que vous en pensez 🙂
 Je vais maintenant vous donner des nouvelles de nos autres projets : les épisodes 1 à 37 de Galaxy Express 999 ont bien avancés, les sorties pourront commencer dès le mois prochain !</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 126 à 135 VOSTFR" />]]>Aujourd&amp;rsquo;hui c&amp;rsquo;est Lupin III Saison 2 épisodes 126 à 135 !
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 126 à 135 VOSTFR" />]]>Aujourd&amp;rsquo;hui c&amp;rsquo;est Lupin III Saison 2 épisodes 126 à 135 !
 On commence à voir le bout de ce projet, nous sommes à 83 épisodes sur 103 !
 J&amp;rsquo;ai trouvé ces épisodes globalement meilleurs que ceux du précédent pack, vous nous direz ce que vous en pensez 🙂
-Je vais maintenant vous donner des nouvelles de nos autres projets : les épisodes 1 à 37 de Galaxy Express 999 ont bien avancés, les sorties pourront commencer dès le mois prochain !</content>
+Je vais maintenant vous donner des nouvelles de nos autres projets : les épisodes 1 à 37 de Galaxy Express 999 ont bien avancés, les sorties pourront commencer dès le mois prochain !</content:encoded>
       </item>
     
     <item>
@@ -64,7 +64,7 @@ Je vais maintenant vous donner des nouvelles de nos autres projets : les épisod
       
       <guid>https://saiko-no-chimu.fr/2017/11/lupin-iii-saison-2-116-a-125-vostfr/</guid>
       <description>Bonjour ! Voici enfin des nouvelles sorties ! Nous n&amp;rsquo;avons pas pu faire de sorties depuis août par manque de correcteurs&amp;hellip; Lupin III saison 2 est notre seul projet où tout va bien et ce sera donc notre seul projet qui pourra sortir jusqu&amp;rsquo;à ce que nous recrutions quelqu&amp;rsquo;un pour nous aider sur Lupin III saison 3 et Galaxy Express 999. Et quel grand projet que cette saison 2 de Lupin III, nous sommes déjà à 73 épisodes sortis sur les 103 épisodes inédits !</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 116 à 125 VOSTFR" />]]>Bonjour ! Voici enfin des nouvelles sorties ! Nous n&amp;rsquo;avons pas pu faire de sorties depuis août par manque de correcteurs&amp;hellip; Lupin III saison 2 est notre seul projet où tout va bien et ce sera donc notre seul projet qui pourra sortir jusqu&amp;rsquo;à ce que nous recrutions quelqu&amp;rsquo;un pour nous aider sur Lupin III saison 3 et Galaxy Express 999. Et quel grand projet que cette saison 2 de Lupin III, nous sommes déjà à 73 épisodes sortis sur les 103 épisodes inédits !</content>
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 116 à 125 VOSTFR" />]]>Bonjour ! Voici enfin des nouvelles sorties ! Nous n&amp;rsquo;avons pas pu faire de sorties depuis août par manque de correcteurs&amp;hellip; Lupin III saison 2 est notre seul projet où tout va bien et ce sera donc notre seul projet qui pourra sortir jusqu&amp;rsquo;à ce que nous recrutions quelqu&amp;rsquo;un pour nous aider sur Lupin III saison 3 et Galaxy Express 999. Et quel grand projet que cette saison 2 de Lupin III, nous sommes déjà à 73 épisodes sortis sur les 103 épisodes inédits !</content:encoded>
       </item>
     
     <item>
@@ -76,9 +76,9 @@ Je vais maintenant vous donner des nouvelles de nos autres projets : les épisod
       <description>Bonjour à tous ! Voici 10 nouveaux épisodes de Lupin III saison 2. À bientôt pour la sortie du film Lupin III - La traînée de sang d&amp;rsquo;Ishikawa Goemon ! Toujours en co-production avec Jmister : http://jmister-fansub.blogspot.fr/
 Staff :
  Traduction : Jmister, Alexiel_Ange_Déchu, Baltique Adaptation depuis le japonais : Jmister Correction : Jmister Time : Jmister Édition : Jmister Q-Check : Jmister, Babaloompo, Alexiel_Ange_Déchu, Baltique Encodage : Jmister Upload : Jmister  Épisodes :</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 106 à 115 VOSTFR" />]]>Bonjour à tous ! Voici 10 nouveaux épisodes de Lupin III saison 2. À bientôt pour la sortie du film Lupin III - La traînée de sang d&amp;rsquo;Ishikawa Goemon ! Toujours en co-production avec Jmister : http://jmister-fansub.blogspot.fr/
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 106 à 115 VOSTFR" />]]>Bonjour à tous ! Voici 10 nouveaux épisodes de Lupin III saison 2. À bientôt pour la sortie du film Lupin III - La traînée de sang d&amp;rsquo;Ishikawa Goemon ! Toujours en co-production avec Jmister : http://jmister-fansub.blogspot.fr/
 Staff :
- Traduction : Jmister, Alexiel_Ange_Déchu, Baltique Adaptation depuis le japonais : Jmister Correction : Jmister Time : Jmister Édition : Jmister Q-Check : Jmister, Babaloompo, Alexiel_Ange_Déchu, Baltique Encodage : Jmister Upload : Jmister  Épisodes :</content>
+ Traduction : Jmister, Alexiel_Ange_Déchu, Baltique Adaptation depuis le japonais : Jmister Correction : Jmister Time : Jmister Édition : Jmister Q-Check : Jmister, Babaloompo, Alexiel_Ange_Déchu, Baltique Encodage : Jmister Upload : Jmister  Épisodes :</content:encoded>
       </item>
     
     <item>
@@ -88,7 +88,7 @@ Staff :
       
       <guid>https://saiko-no-chimu.fr/2017/04/lupin-iii-saison-2-96-a-105-vostfr/</guid>
       <description>Voici 10 nouveaux épisodes inédits de Lupin III Saison 2 ! Nous sommes désormais rendu à la moitié des épisodes inédits de cette série 2 de Lupin ! Les épisodes 100 à 103 sont basés sur des idées que des fans ont envoyé lors d&amp;rsquo;un concours pour célébrer le centième épisode. Vous pourrez voir, dans l&amp;rsquo;épisode 101, 30 ans avant sa rencontre avec le détective Conan, la rencontre entre Lupin et&amp;hellip; Lady Oscar !</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 96 à 105 VOSTFR" />]]>Voici 10 nouveaux épisodes inédits de Lupin III Saison 2 ! Nous sommes désormais rendu à la moitié des épisodes inédits de cette série 2 de Lupin ! Les épisodes 100 à 103 sont basés sur des idées que des fans ont envoyé lors d&amp;rsquo;un concours pour célébrer le centième épisode. Vous pourrez voir, dans l&amp;rsquo;épisode 101, 30 ans avant sa rencontre avec le détective Conan, la rencontre entre Lupin et&amp;hellip; Lady Oscar !</content>
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 96 à 105 VOSTFR" />]]>Voici 10 nouveaux épisodes inédits de Lupin III Saison 2 ! Nous sommes désormais rendu à la moitié des épisodes inédits de cette série 2 de Lupin ! Les épisodes 100 à 103 sont basés sur des idées que des fans ont envoyé lors d&amp;rsquo;un concours pour célébrer le centième épisode. Vous pourrez voir, dans l&amp;rsquo;épisode 101, 30 ans avant sa rencontre avec le détective Conan, la rencontre entre Lupin et&amp;hellip; Lady Oscar !</content:encoded>
       </item>
     
     <item>
@@ -98,7 +98,7 @@ Staff :
       
       <guid>https://saiko-no-chimu.fr/2017/01/lupin-iii-saison-2-86-a-95-vostfr/</guid>
       <description>Pour notre dernière news de janvier, voici 10 nouveaux épisodes inédits de Lupin III Saison 2 ! Ces épisodes ont été diffusés en 1979, alors ne vous étonnez pas de voir Lupin aller au cinéma pour voir le Superman de Richard Donner ou se rendre en Iran en pleine révolution de 79 ! Des épisodes très marrants, très WTF pour certains, mais toujours avec des passages sérieux. Des épisodes très Lupinesques !</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 86 à 95 VOSTFR" />]]>Pour notre dernière news de janvier, voici 10 nouveaux épisodes inédits de Lupin III Saison 2 ! Ces épisodes ont été diffusés en 1979, alors ne vous étonnez pas de voir Lupin aller au cinéma pour voir le Superman de Richard Donner ou se rendre en Iran en pleine révolution de 79 ! Des épisodes très marrants, très WTF pour certains, mais toujours avec des passages sérieux. Des épisodes très Lupinesques !</content>
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 86 à 95 VOSTFR" />]]>Pour notre dernière news de janvier, voici 10 nouveaux épisodes inédits de Lupin III Saison 2 ! Ces épisodes ont été diffusés en 1979, alors ne vous étonnez pas de voir Lupin aller au cinéma pour voir le Superman de Richard Donner ou se rendre en Iran en pleine révolution de 79 ! Des épisodes très marrants, très WTF pour certains, mais toujours avec des passages sérieux. Des épisodes très Lupinesques !</content:encoded>
       </item>
     
     <item>
@@ -110,9 +110,9 @@ Staff :
       <description>Bonjour tout le monde ! Voici une news que nous voulions faire depuis longtemps, celle annonçant ce projet de longue date : Lupin III saison 2 !
 Ce projet qui nous tient à cœur depuis si longtemps vous arrive enfin avec non pas un, ni deux, mais bien 13 épisodes !
 Nous vous proposons de voir (puis revoir) les 13 premiers épisodes inédits de Lupin III saison 2 ! Cette série diffusée au Japon entre 1977 et 1980, longue de 155 épisodes, fut partiellement diffusée en France sous le titre Edgar, le détective cambrioleur.</description>
-      <content><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 53 à 65 VOSTFR" />]]>Bonjour tout le monde ! Voici une news que nous voulions faire depuis longtemps, celle annonçant ce projet de longue date : Lupin III saison 2 !
+      <content:encoded><![CDATA[<img src="https://saiko-no-chimu.fr/img/pflq.jpg" alt="Lupin III saison 2 53 à 65 VOSTFR" />]]>Bonjour tout le monde ! Voici une news que nous voulions faire depuis longtemps, celle annonçant ce projet de longue date : Lupin III saison 2 !
 Ce projet qui nous tient à cœur depuis si longtemps vous arrive enfin avec non pas un, ni deux, mais bien 13 épisodes !
-Nous vous proposons de voir (puis revoir) les 13 premiers épisodes inédits de Lupin III saison 2 ! Cette série diffusée au Japon entre 1977 et 1980, longue de 155 épisodes, fut partiellement diffusée en France sous le titre Edgar, le détective cambrioleur.</content>
+Nous vous proposons de voir (puis revoir) les 13 premiers épisodes inédits de Lupin III saison 2 ! Cette série diffusée au Japon entre 1977 et 1980, longue de 155 épisodes, fut partiellement diffusée en France sous le titre Edgar, le détective cambrioleur.</content:encoded>
       </item>
     
   </channel>
