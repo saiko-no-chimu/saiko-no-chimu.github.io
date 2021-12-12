@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories sur Saiko no Chimu</title>
     <link>https://saiko-no-chimu.fr/categories/</link>
     <description>Contenu récent dans Categories sur Saiko no Chimu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 31 Oct 2021 22:50:00 +0200</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 21:50:00 +0200</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Téléfilms</title>
       <link>https://saiko-no-chimu.fr/categories/telefilms/</link>
-      <pubDate>Sun, 31 Oct 2021 22:50:00 +0200</pubDate>
+      <pubDate>Sun, 12 Dec 2021 21:50:00 +0200</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/telefilms/</guid>
-      <description></description>
-      <content:encoded></content:encoded>
-      </item>
+      <description></description>	  
+	  </item>
     
     <item>
       <title>Séries</title>
@@ -23,9 +22,8 @@
       <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/series/</guid>
-      <description></description>
-      <content:encoded></content:encoded>
-      </item>
+      <description></description>	  
+	  </item>
     
     <item>
       <title>OAV</title>
@@ -33,9 +31,8 @@
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/oav/</guid>
-      <description></description>
-      <content:encoded></content:encoded>
-      </item>
+      <description></description>	  
+	  </item>
     
     <item>
       <title>Films</title>
@@ -43,9 +40,8 @@
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/films/</guid>
-      <description></description>
-      <content:encoded></content:encoded>
-      </item>
+      <description></description>	  
+	  </item>
     
   </channel>
 </rss>
