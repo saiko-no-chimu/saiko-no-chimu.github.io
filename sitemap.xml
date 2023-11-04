@@ -1,11 +1,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
+      <loc>https://saiko-no-chimu.fr/pages/projets/</loc>
+    </url>
+    
+    <url>
       <loc>https://saiko-no-chimu.fr/pages/equipe/</loc>
     </url>
     
     <url>
-      <loc>https://saiko-no-chimu.fr/pages/projets/</loc>
+      <loc>https://saiko-no-chimu.fr/pages/recrutement/</loc>
     </url>
     
     <url>
@@ -1047,10 +1051,50 @@
     </url>
     
     <url>
+      <loc>https://saiko-no-chimu.fr/postes/adaptation/</loc>
+    </url>
+    
+    <url>
+      <loc>https://saiko-no-chimu.fr/postes/correction/</loc>
+    </url>
+    
+    <url>
+      <loc>https://saiko-no-chimu.fr/postes/edit/</loc>
+    </url>
+    
+    <url>
+      <loc>https://saiko-no-chimu.fr/postes/encodage/</loc>
+    </url>
+    
+    <url>
       <loc>https://saiko-no-chimu.fr/external/</loc>
     </url>
     
     <url>
+      <loc>https://saiko-no-chimu.fr/postes/karaokes/</loc>
+    </url>
+    
+    <url>
       <loc>https://saiko-no-chimu.fr/pages/</loc>
+    </url>
+    
+    <url>
+      <loc>https://saiko-no-chimu.fr/postes/</loc>
+    </url>
+    
+    <url>
+      <loc>https://saiko-no-chimu.fr/postes/qcheck/</loc>
+    </url>
+    
+    <url>
+      <loc>https://saiko-no-chimu.fr/postes/time/</loc>
+    </url>
+    
+    <url>
+      <loc>https://saiko-no-chimu.fr/postes/traduction/</loc>
+    </url>
+    
+    <url>
+      <loc>https://saiko-no-chimu.fr/postes/upload/</loc>
     </url>
     </urlset>
