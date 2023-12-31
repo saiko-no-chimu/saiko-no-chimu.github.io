@@ -6,7 +6,16 @@
     <description>Contenu récent dans Series sur Saiko no Chimu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 25 Dec 2023 23:36:00 +0100</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 15:20:00 +0100</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mister Ajikko</title>
+      <link>https://saiko-no-chimu.fr/series/mister-ajikko/</link>
+      <pubDate>Sun, 31 Dec 2023 15:20:00 +0100</pubDate>
+      
+      <guid>https://saiko-no-chimu.fr/series/mister-ajikko/</guid>
+      <description></description>	  
+	  </item>
+    
     <item>
       <title>Lupin III</title>
       <link>https://saiko-no-chimu.fr/series/lupin-iii/</link>
