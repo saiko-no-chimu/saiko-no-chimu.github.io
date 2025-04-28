@@ -6,7 +6,16 @@
     <description>Contenu récent dans Series sur Saiko no Chimu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 31 Jan 2025 23:15:00 +0100</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2025 23:15:00 +0200</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galaxy Express 999</title>
+      <link>https://saiko-no-chimu.fr/series/galaxy-express-999/</link>
+      <pubDate>Mon, 28 Apr 2025 23:15:00 +0200</pubDate>
+      
+      <guid>https://saiko-no-chimu.fr/series/galaxy-express-999/</guid>
+      <description></description>	  
+	  </item>
+    
     <item>
       <title>Lupin III</title>
       <link>https://saiko-no-chimu.fr/series/lupin-iii/</link>
@@ -58,15 +67,6 @@
       <pubDate>Sun, 08 Jan 2023 21:05:00 +0100</pubDate>
       
       <guid>https://saiko-no-chimu.fr/series/lupin-zero-licencie/</guid>
-      <description></description>	  
-	  </item>
-    
-    <item>
-      <title>Galaxy Express 999</title>
-      <link>https://saiko-no-chimu.fr/series/galaxy-express-999/</link>
-      <pubDate>Sat, 24 Oct 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://saiko-no-chimu.fr/series/galaxy-express-999/</guid>
       <description></description>	  
 	  </item>
     
