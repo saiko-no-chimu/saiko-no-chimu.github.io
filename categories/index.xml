@@ -6,7 +6,16 @@
     <description>Contenu récent dans Categories sur Saiko no Chimu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 28 Apr 2025 23:15:00 +0200</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 23:15:00 +0200</lastBuildDate><atom:link href="https://saiko-no-chimu.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OAV</title>
+      <link>https://saiko-no-chimu.fr/categories/oav/</link>
+      <pubDate>Mon, 05 May 2025 23:15:00 +0200</pubDate>
+      
+      <guid>https://saiko-no-chimu.fr/categories/oav/</guid>
+      <description></description>	  
+	  </item>
+    
     <item>
       <title>Séries</title>
       <link>https://saiko-no-chimu.fr/categories/series/</link>
@@ -22,15 +31,6 @@
       <pubDate>Fri, 31 Jan 2025 23:15:00 +0100</pubDate>
       
       <guid>https://saiko-no-chimu.fr/categories/telefilms/</guid>
-      <description></description>	  
-	  </item>
-    
-    <item>
-      <title>OAV</title>
-      <link>https://saiko-no-chimu.fr/categories/oav/</link>
-      <pubDate>Sat, 30 Sep 2023 23:10:00 +0200</pubDate>
-      
-      <guid>https://saiko-no-chimu.fr/categories/oav/</guid>
       <description></description>	  
 	  </item>
     
