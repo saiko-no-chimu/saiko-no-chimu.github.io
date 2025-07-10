@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/postes/adaptation/</guid>
-      <description>Description du poste Modifier la traduction existante pour faciliter la compréhension par le public francophone. Eliminer les tournures trop littérales tout en conservant dans la mesure du possible le sens initial.</description>	  
+      <description>&lt;h2 id=&#34;description-du-poste&#34;&gt;Description du poste&lt;/h2&gt;
+&lt;p&gt;Modifier la traduction existante pour faciliter la compréhension par le public francophone. Eliminer les tournures trop littérales tout en conservant dans la mesure du possible le sens initial.&lt;/p&gt;</description>	  
 	  </item>
     
     <item>
@@ -21,7 +22,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/postes/correction/</guid>
-      <description>Description du poste Corriger les fautes. Assurer la cohérence globale du texte.</description>	  
+      <description>&lt;h2 id=&#34;description-du-poste&#34;&gt;Description du poste&lt;/h2&gt;
+&lt;p&gt;Corriger les fautes. Assurer la cohérence globale du texte.&lt;/p&gt;</description>	  
 	  </item>
     
     <item>
@@ -30,7 +32,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/postes/edit/</guid>
-      <description>Description du poste Appliquer des effets visuels sur certaines lignes de texte, mettre en forme les écrans titres.</description>	  
+      <description>&lt;h2 id=&#34;description-du-poste&#34;&gt;Description du poste&lt;/h2&gt;
+&lt;p&gt;Appliquer des effets visuels sur certaines lignes de texte, mettre en forme les écrans titres.&lt;/p&gt;</description>	  
 	  </item>
     
     <item>
@@ -39,7 +42,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/postes/encodage/</guid>
-      <description>Description du poste Compresser le fichier vidéo afin d&amp;rsquo;obtenir un bon compromis entre taille de fichier et qualité. Dans le cas d&amp;rsquo;une vidéo d&amp;rsquo;animation, doit être en mesure de privilégier selon la source un lissage de l&amp;rsquo;image ou au contraire la préservation du grain original.</description>	  
+      <description>&lt;h2 id=&#34;description-du-poste&#34;&gt;Description du poste&lt;/h2&gt;
+&lt;p&gt;Compresser le fichier vidéo afin d&amp;rsquo;obtenir un bon compromis entre taille de fichier et qualité. Dans le cas d&amp;rsquo;une vidéo d&amp;rsquo;animation, doit être en mesure de privilégier selon la source un lissage de l&amp;rsquo;image ou au contraire la préservation du grain original.&lt;/p&gt;</description>	  
 	  </item>
     
     <item>
@@ -48,7 +52,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/postes/karaokes/</guid>
-      <description>Description du poste Réaliser les effets de transition des lyrics au fur et à mesure de leur apparition à l&amp;rsquo;écran.</description>	  
+      <description>&lt;h2 id=&#34;description-du-poste&#34;&gt;Description du poste&lt;/h2&gt;
+&lt;p&gt;Réaliser les effets de transition des lyrics au fur et à mesure de leur apparition à l&amp;rsquo;écran.&lt;/p&gt;</description>	  
 	  </item>
     
     <item>
@@ -57,7 +62,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/postes/qcheck/</guid>
-      <description>Description du poste Repérer toutes les fautes restantes ou toute autre imperfection d&amp;rsquo;un bout à l&amp;rsquo;autre de la chaîne.</description>	  
+      <description>&lt;h2 id=&#34;description-du-poste&#34;&gt;Description du poste&lt;/h2&gt;
+&lt;p&gt;Repérer toutes les fautes restantes ou toute autre imperfection d&amp;rsquo;un bout à l&amp;rsquo;autre de la chaîne.&lt;/p&gt;</description>	  
 	  </item>
     
     <item>
@@ -66,7 +72,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/postes/time/</guid>
-      <description>Description du poste Synchroniser les lignes de sous-titres par rapport à l&amp;rsquo;audio et la vidéo.</description>	  
+      <description>&lt;h2 id=&#34;description-du-poste&#34;&gt;Description du poste&lt;/h2&gt;
+&lt;p&gt;Synchroniser les lignes de sous-titres par rapport à l&amp;rsquo;audio et la vidéo.&lt;/p&gt;</description>	  
 	  </item>
     
     <item>
@@ -75,7 +82,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/postes/traduction/</guid>
-      <description>Description du poste Traduire en Français des sous-titres en langue étrangère (Japonais ou anglais).</description>	  
+      <description>&lt;h2 id=&#34;description-du-poste&#34;&gt;Description du poste&lt;/h2&gt;
+&lt;p&gt;Traduire en Français des sous-titres en langue étrangère (Japonais ou anglais).&lt;/p&gt;</description>	  
 	  </item>
     
     <item>
@@ -84,7 +92,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saiko-no-chimu.fr/postes/upload/</guid>
-      <description>Description du poste Uploader les fichiers sur diverses plateformes.</description>	  
+      <description>&lt;h2 id=&#34;description-du-poste&#34;&gt;Description du poste&lt;/h2&gt;
+&lt;p&gt;Uploader les fichiers sur diverses plateformes.&lt;/p&gt;</description>	  
 	  </item>
     
   </channel>
